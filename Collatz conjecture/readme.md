@@ -20,5 +20,5 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Collatz_conjecture)
 
 ## Solutions
 ### Ruby
-* [iterative one-liner](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Collatz%20conjecture/Iterative.rb)
+* [iterative one-liner](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Collatz%20conjecture/Ruby/Iterative-oneliner.rb)
 
