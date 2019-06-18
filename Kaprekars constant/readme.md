@@ -3,7 +3,7 @@
 From [Wikipedia](https://en.wikipedia.org/wiki/6174_(number))
 
 > 6174 is known as Kaprekar's constant[1][2][3] after the Indian mathematician D. R. Kaprekar. This number is notable for the following rule:
-
+>
 > 1. Take any four-digit number, using at least two different digits. (Leading zeros are allowed.)
 > 1. Arrange the digits in descending and then in ascending order to get two four-digit numbers, adding leading zeros if necessary.
 > 1. Subtract the smaller number from the bigger number.
