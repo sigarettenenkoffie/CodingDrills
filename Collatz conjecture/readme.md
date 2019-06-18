@@ -12,4 +12,6 @@
 * Count how many iterations it takes for x to converge to 1
 
 ## Solutions
+### Ruby
+* iterative one-liner
 
