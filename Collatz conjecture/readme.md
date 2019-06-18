@@ -13,5 +13,5 @@
 
 ## Solutions
 ### Ruby
-* iterative one-liner
+* [iterative one-liner](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Collatz%20conjecture/Iterative.rb)
 
