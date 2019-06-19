@@ -9,4 +9,5 @@ From [Numbers Aplenty](http://www.numbersaplenty.com/set/gapful_number/)
 * Write code to check if user input is a gapful number
 
 ## Solutions
-
+### Ruby
+* [gapful.rb](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Drills/Numbers/Gapful%20numbers/Ruby/Gapful.rb)
