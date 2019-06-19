@@ -11,3 +11,5 @@ From [Numbers Aplenty](http://www.numbersaplenty.com/set/gapful_number/)
 ## Solutions
 ### Ruby
 * [gapful.rb](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Drills/Numbers/Gapful%20numbers/Ruby/Gapful.rb)
+### C#
+* [gapful.cs](https://github.com/sigarettenenkoffie/CodingDrills/blob/master/Drills/Numbers/Gapful%20numbers/C%23/GapfulNumbers.cs)
