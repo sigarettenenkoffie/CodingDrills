@@ -6,7 +6,7 @@ From [Numbers Aplenty](http://www.numbersaplenty.com/set/gapful_number/)
 > For example, 583 is gapful because it is divisible by 53.
 
 ## What to do
-* Write code to check if user input is a gapful number
+* Write code to check if a given number is a gapful number
 
 ## Solutions
 ### Ruby
