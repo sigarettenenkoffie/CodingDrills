@@ -10,4 +10,4 @@
  
 ## .NET
 1. [Lists and comboboxes](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/NET/ListsAndComboboxes)
-1. Working with Text
+1. [Working with Text](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/NET/WorkingWithText)
