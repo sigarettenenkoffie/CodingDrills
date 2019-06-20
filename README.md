@@ -10,3 +10,4 @@
  
 ## .NET
 1. Lists and comboboxes
+1. Working with Text
