@@ -6,5 +6,5 @@
 1. [Gapful Numbers](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/Numbers/Gapful%20numbers)
 
 ## Fun with classes
-1. Airplane ticket calculation
+1. [Airplane ticket calculation](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/Classes/AirplaneTicketCalculation)
  
