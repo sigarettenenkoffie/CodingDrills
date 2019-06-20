@@ -9,5 +9,5 @@
 1. [Airplane ticket calculation](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/Classes/AirplaneTicketCalculation)
  
 ## .NET
-1. Lists and comboboxes
+1. [Lists and comboboxes](https://github.com/sigarettenenkoffie/CodingDrills/tree/master/Drills/NET/ListsAndComboboxes)
 1. Working with Text
